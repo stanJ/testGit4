@@ -20,7 +20,9 @@
     [self fontsArray];
     NSLog(@"字体种类：%ld",self.fontsMutableArray.count);
 
+    NSLog(@"C罗到此一游！");
 }
+
 #pragma mark-UITableViewDataSource && UITableViewDelegate
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
     return 1;
