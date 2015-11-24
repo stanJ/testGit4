@@ -23,6 +23,7 @@
     NSLog(@"C罗到此一游！");
     NSLog(@"我的地盘我做主");
     NSLog(@"第二次更新");
+    NSLog(@"第三次更新");
 }
 
 #pragma mark-UITableViewDataSource && UITableViewDelegate
