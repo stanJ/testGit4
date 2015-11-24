@@ -21,6 +21,7 @@
     NSLog(@"字体种类：%ld",self.fontsMutableArray.count);
 
     NSLog(@"C罗到此一游！");
+    NSLog(@"我的地盘我做主");
 }
 
 #pragma mark-UITableViewDataSource && UITableViewDelegate
